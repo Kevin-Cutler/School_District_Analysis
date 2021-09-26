@@ -2,7 +2,7 @@
 School District Analysis Jupyter Notebook
 Overview of the school district analysis: Explain the purpose of this analysis.
 
-After our initial analysis we prepared for Maria, the School Board found that there was ìacademic dishonestyî in the csv file we produced our analysis from for their teams. In the news shared with Maria and her Supervisors, it was identified that there was specific dishonesty in the ninth grade reading and math scores for Thomas High School. It is our job to support the School Board in maintaining the testing standards of the state and we will be assisting Maria in reevaluating the testing data. We first must replace the math and reading scores for the nineth grade students at Thomas High School because it was discovered that those scores have been altered.
+After our initial analysis we prepared for Maria, the School Board found that there was ‚Äúacademic dishonesty‚Äù in the csv file we produced our analysis from for their teams. In the news shared with Maria and her Supervisors, it was identified that there was specific dishonesty in the ninth grade reading and math scores for Thomas High School. It is our job to support the School Board in maintaining the testing standards of the state and we will be assisting Maria in reevaluating the testing data. We first must replace the math and reading scores for the nineth grade students at Thomas High School because it was discovered that those scores have been altered.
 
 For our task in assisting Maria and the School Board in upholding the integrity of the state testing standards we will place NANs in the reading and math scores for the nineth grade students at Thomas High School. We will not change the rest of the scores for the schools or students in the district, we must make sure we do not incorrectly alter the scores of students with accurate test scores. After we have safely updated the dishonestly altered scores, we will repeat the school district analysis previously performed for Maria and the School Board. Our final output will be a report to describe how these changes affected the overall analysis.
 
@@ -33,7 +33,7 @@ In our Summary we will look at the difference between All Schools against our ne
 ## District Summary All Schools
 
 
-![] (Resources/District_Summary_All.png)
+![](Resources/District_Summary_All.png)
 
 
 ## District Summary Excluding THS 9th Grade Schools
@@ -49,9 +49,9 @@ In our Summary we will look at the difference between All Schools against our ne
 ![](Resources/THS_Summary_without9th.png)
 
 
-# Replaced Scores Thomas High Schoolís performance relative to the other schools?
+# Replaced Scores Thomas High School‚Äôs performance relative to the other schools?
 
-Below you see that before removing Thomas High School 9th graders dropped the Percentage Passing Math from 93.27 to 93.18. The Percentage Passing Reading for Thomas High School decreased from 97.3 to 97.0. These drops decreased the Overall Passing Percentage for Thomas High School from 90.94 to 90.63. Removing the 9th grader score also decreased Thomas High School standings among schoolsí districts across the board. There is a percentage decrease in 0.085 for Thomas High School overall due to the dishonesty which is negatively impactful overall for its district. 
+Below you see that before removing Thomas High School 9th graders dropped the Percentage Passing Math from 93.27 to 93.18. The Percentage Passing Reading for Thomas High School decreased from 97.3 to 97.0. These drops decreased the Overall Passing Percentage for Thomas High School from 90.94 to 90.63. Removing the 9th grader score also decreased Thomas High School standings among schools‚Äô districts across the board. There is a percentage decrease in 0.085 for Thomas High School overall due to the dishonesty which is negatively impactful overall for its district. 
 
 
 ## District Summary with Thomas High School 9th Graders
