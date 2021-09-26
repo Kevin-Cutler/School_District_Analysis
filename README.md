@@ -38,15 +38,14 @@ In our Summary we will look at the difference between All Schools against our ne
 
 ## District Summary Excluding THS 9th Grade Schools
 
-![] (Resources/District_Summary_without_THS9th.png)
-
+<img width="477" alt="District_Summary_without_THS9th" src="https://user-images.githubusercontent.com/88467263/134825270-59839d6f-7c0d-41f0-8ea7-976325dd1b66.PNG">
 
 ## Thomas High School Summary with 9th Graders
-![] (Resources/THS_Summary_with9th.png)
+<img width="210" alt="THS_Summary_with9th" src="https://user-images.githubusercontent.com/88467263/134825275-5ba5f798-0dd4-4597-8845-4cd0ebe53d17.PNG">
 
 ## Thomas High School Summary without 9th Graders
 
-![](Resources/THS_Summary_without9th.png)
+<img width="164" alt="THS_Summary_without9th" src="https://user-images.githubusercontent.com/88467263/134825285-c6fbacde-d0fe-4fb0-9322-4aaa8f81ebfb.PNG">
 
 
 # Replaced Scores Thomas High School’s performance relative to the other schools?
@@ -56,13 +55,13 @@ Below you see that before removing Thomas High School 9th graders dropped the Pe
 
 ## District Summary with Thomas High School 9th Graders
 
-![] (Resources/District_Summary_ALL_Schools.png)
+<img width="364" alt="District_Summary_ALL_Schools" src="https://user-images.githubusercontent.com/88467263/134825295-e0e165d5-223c-4cee-8d5f-63a57297f980.PNG">
 
 
 
 ## District Summary Without Thomas High School 9th Graders
 
-![] (Resources/District_Summary_without9thTHS.png)
+<img width="492" alt="District_Summary_without9thTHS" src="https://user-images.githubusercontent.com/88467263/134825305-75953279-e93e-4087-9f66-c08230c06a8d.PNG">
 
 
 
@@ -77,12 +76,12 @@ The last portion of the School District Summary reevaluation includes reviewing 
 
 * Left Shows Math Grades without Thomas High School 9th Graders
 
-![] (Resources/Math_Scores_Grades.png)
+<img width="534" alt="Math_Scores_Grades" src="https://user-images.githubusercontent.com/88467263/134825312-fe9e3f28-4432-4e9e-8c0e-e9c286d169d0.PNG">
 
 
 * Left Shows Reading Grades without Thomas High School 9th Graders
 
-![] (Resources/with_without_reading.png)
+<img width="574" alt="with_without_reading" src="https://user-images.githubusercontent.com/88467263/134825326-b9fe12c6-8323-4322-a7a7-ec6f88d77233.PNG">
 
 
 
@@ -90,17 +89,17 @@ The last portion of the School District Summary reevaluation includes reviewing 
 
 * Below Bottom Screen Shot Shows Spending Without Thomas High School 9th Graders
 
-![] (Resources/spenidng_with_without.png)
+<img width="429" alt="spenidng_with_without" src="https://user-images.githubusercontent.com/88467263/134825343-e6e4f57d-f742-4ab9-9093-040b85bb933d.PNG">
 
 
 ## Scores by school size
 
-![] (Resources/size_with_without.png)
+<img width="443" alt="size_with_without" src="https://user-images.githubusercontent.com/88467263/134825348-0773028e-3df5-430e-9abc-6f5752798be7.PNG">
 
 
 ## Scores by school type
 
-![] (Resources/type_with_without.png)
+<img width="472" alt="type_with_without" src="https://user-images.githubusercontent.com/88467263/134825353-bad67d59-f6e4-4211-9f2e-2e64a522d2d8.PNG">
 
 
 Summary: My summary after making the changes and reviewing the initial data against the new data I find it difficult to make a claim that there was academic dishonesty. For Thomas High School alone the summary of their performance before and after removing the 9th graders had a small impact. I believe that because there is such a large set of data in the initial summary, removing the 9th graders from one school makes a smaller change on the larger dataset. When looking at the data after removing the 9th graders from Thomas High School scores, I see very small changes in reading and math scores and their percentages. 
