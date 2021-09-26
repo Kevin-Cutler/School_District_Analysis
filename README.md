@@ -33,7 +33,7 @@ In our Summary we will look at the difference between All Schools against our ne
 ## District Summary All Schools
 
 
-![](Resources/District_Summary_All.png)
+<img width="473" alt="District_Summary_All" src="https://user-images.githubusercontent.com/88467263/134825258-8664341c-aaf3-4345-a192-42dbd316b7c6.PNG">
 
 
 ## District Summary Excluding THS 9th Grade Schools
