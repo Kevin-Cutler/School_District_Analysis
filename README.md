@@ -41,11 +41,12 @@ In our Summary we will look at the difference between All Schools against our ne
 <img width="477" alt="District_Summary_without_THS9th" src="https://user-images.githubusercontent.com/88467263/134825270-59839d6f-7c0d-41f0-8ea7-976325dd1b66.PNG">
 
 ## Thomas High School Summary with 9th Graders
+
 <img width="210" alt="THS_Summary_with9th" src="https://user-images.githubusercontent.com/88467263/134825275-5ba5f798-0dd4-4597-8845-4cd0ebe53d17.PNG">
 
 ## Thomas High School Summary without 9th Graders
 
-<img width="164" alt="THS_Summary_without9th" src="https://user-images.githubusercontent.com/88467263/134825285-c6fbacde-d0fe-4fb0-9322-4aaa8f81ebfb.PNG">
+<img width="179" alt="THS_Summary_without9th" src="https://user-images.githubusercontent.com/88467263/134825471-30320a71-0fb9-473d-bfbb-2dc40dc31c21.PNG">
 
 
 # Replaced Scores Thomas High School’s performance relative to the other schools?
